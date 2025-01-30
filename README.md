@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![Banner](https://raw.githubusercontent.com/fadlyfatih1/fadlyfatih1/team.jpeg)
+![Banner](https://raw.githubusercontent.com/fadlyfatih1/fadlyfatih1/main/team.jpeg)
 
 ## 🛠️ Technical Stack
 
